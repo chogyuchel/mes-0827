@@ -1,5 +1,5 @@
 import random
-print("수정한부분")
+
 def rsp_game():
     choices = ['rock', 'scissors', 'paper']
     user = input("Choose rock, scissors, or paper: ").lower()
